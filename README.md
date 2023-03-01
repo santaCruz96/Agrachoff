@@ -1,7 +1,6 @@
-Запуск проекта
-Склонируйте репозиторий:
-git clone https://github.com/santaCruz96/Agrachoff
+Склонируйте репозиторий 
+git clone https://github.com/santaCruz96/Agrachoff => 
 Установите зависимости:
-npm i
+npm i =>
 Запустите проект:
 npm start
